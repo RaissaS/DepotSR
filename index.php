@@ -26,6 +26,12 @@ switch($do){
 	}
         
 	}
+        
+        
+
+echo "Coucou";
+
+
 	
 ?>
 
